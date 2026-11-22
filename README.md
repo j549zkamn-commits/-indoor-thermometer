@@ -41,6 +41,10 @@ Python
 | ESP32-C3M-TRY |温度計 |
 | ディスクトップPC  | 自宅サーバー  |
 
-# 4.ネットワーク構成図
+# 5.ネットワーク構成図
 
 coming　Soon
+
+# 6.設置画像
+
+Coming Soon
